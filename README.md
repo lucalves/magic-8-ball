@@ -4,7 +4,7 @@ An app developed in Swift that displays a magic ball according to a user's quest
 
 ## About
 
-[In Progress...]
+This was an application designed to practice the basics of Swift.
 
 ## Screenshots
 
