@@ -26,9 +26,6 @@ $ cd magic-8-ball
 # Open the repository in the IDE (If you use VS Code)
 $ code .
 
-# Install dependencies with npm or yarn
-$ yarn or npm install
-
 # Just run the app on XCode!
 ```
 
