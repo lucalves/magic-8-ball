@@ -18,13 +18,13 @@ This was an application designed to practice the basics of Swift.
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:lucalves/magic-8-ball.git
+git clone git@github.com:lucalves/magic-8-ball.git
 
 # Go into the repository
-$ cd magic-8-ball
+cd magic-8-ball
 
 # Open the repository in the IDE (If you use VS Code)
-$ code .
+code .
 
 # Just run the app on XCode!
 ```
