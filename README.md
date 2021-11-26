@@ -1,6 +1,6 @@
-# Magic 8 Ball
+<h1 align="center">Magic 8 Ball</h1>
 
-An app developed in Swift that displays a magic ball according to a user's question.
+<p align="center">An app developed in Swift that displays a magic ball according to a user's question.</p>
 
 ## About
 
@@ -8,11 +8,19 @@ This was an application designed to practice the basics of Swift.
 
 ## Screenshots
 
-[In Progress...]
+<img src=".github/simulator-screenshot.png" width="250" />
 
 ## Technologies
 
 - [Swift](https://swift.org/)
+
+## What I learned with this app
+
+- Design user interface;
+- Changing UI Elements programmatically;
+- Detect user interaction and respond to it;
+- Learn to use Swift variables and Arrays to store data;
+- Learn about randomisation in Swift;
 
 ## How to Install
 
