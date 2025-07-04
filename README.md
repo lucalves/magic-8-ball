@@ -1,6 +1,6 @@
-<h1 align="center">Magic 8 Ball</h1>
+<h1>Magic 8 Ball</h1>
 
-<p align="center">An app developed in Swift that displays a magic ball according to a user's question.</p>
+<p>An app developed in Swift that displays a magic ball according to a user's question.</p>
 
 ## About
 
