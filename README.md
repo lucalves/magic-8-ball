@@ -1,4 +1,4 @@
-<h1>magic-8-ball</h1>
+<h1>magic-8-ball</h1> 🔮
 
 <p>An app developed in Swift that displays a magic ball according to a user's question.</p>
 
